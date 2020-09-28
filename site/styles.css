@@ -1,5 +1,7 @@
   * {
   box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
     }
 
 body {
@@ -62,7 +64,7 @@ h1#jabez {
 }
 
 div#sec1 {
-    background-color: red;
+   background-color: red;
     position: relative;
 }
 
@@ -73,8 +75,7 @@ div#sec2 {
 
 div#sec3 {
     background-color: blue;
-    position: relative;
-
+   position: relative;
     }
 
 div#tit1 {
