@@ -14,7 +14,8 @@ body {
 div {
   color: gold;
   float: left;
-  margin: 7px;
+  margin: 3px;
+  padding: 3px;
   position: relative;
   border: solid black 1px;
   box-sizing: border-box;
@@ -62,7 +63,6 @@ h1#jabez {
 
 div#sec1 {
     background-color: red;
-    padding-bottom: 50px;
     position: relative;
 }
 
@@ -74,7 +74,6 @@ div#sec2 {
 div#sec3 {
     background-color: blue;
     position: relative;
-    margin-right: 7px;
 
     }
 
