@@ -57,6 +57,7 @@ h1#anima {
 
 h1#jabez {
     color: orange;
+    padding-right: 3px;
     background-color: blue;
     font-size: 125%;
 
@@ -75,7 +76,8 @@ div#sec2 {
 
 div#sec3 {
     background-color: blue;
-   position: relative;
+    position: relative;
+    padding-right: 3px;
     }
 
 div#tit1 {
@@ -115,13 +117,13 @@ div#tit3 {
 /*MEDIUM divices*/
 @media (min-width: 768px) and (max-width: 991px) {
    div#sec1 {
-   width: 47%;
+   width: 49%;
    }
    div#sec2 {
-   width: 47%;
+   width: 49%;
    }
    div#sec3 {
-   width: 94%;
+   width: 100%;
    }
 
 }
