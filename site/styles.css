@@ -101,26 +101,26 @@ div#tit3 {
 /*LARGE divices*/
 @media (min-width: 992px) {
    div#sec1 {
-   width: 32%;
+   width: 30%;
    }
    div#sec2 {
-   width: 32%;
+   width: 30%;
    }
    div#sec3 {
-   width: 32%;
+   width: 30%;
    }
 }
 
 /*MEDIUM divices*/
 @media (min-width: 768px) and (max-width: 991px) {
    div#sec1 {
-   width: 48%;
+   width: 45%;
    }
    div#sec2 {
-   width: 48%;
+   width: 45%;
    }
    div#sec3 {
-   width: 98%;
+   width: 95%;
    }
 
 }
