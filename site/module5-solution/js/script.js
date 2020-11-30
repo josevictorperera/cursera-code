@@ -116,7 +116,7 @@ var chosenCategoryShortName = chooseRandomCategory(categories);
       // it into the home html snippet.
       //
       // var homeHtmlToInsertIntoMainPage = ....
-      
+      chosenCategoryShortName = "'" + categories[chosenCategoryShortName] + "'";
       
 var homeHtmlToInsertIntoMainPage = insertProperty(homeHtml, "randomCategoryShortName", chosenCategoryShortName);
 
